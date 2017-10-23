@@ -6,8 +6,3 @@ variable "variable_2" {
 
 variable "region" {
 }
-
-
-variable_1 = "foo"
-variable_2 = "bar"
-region = "eu-west-2"
